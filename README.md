@@ -1,1 +1,1 @@
-# XiaoMi-Nootbook-Ruby-15.6-
+# XiaoMi-Notebook-Ruby-15.6- 2019
